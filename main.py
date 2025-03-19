@@ -7,7 +7,7 @@ X = np.array([[1], [2], [3], [4], [5]])
 y = np.array([1, 3, 2, 3, 5])
 
 
-# Create a linear regression model with normalize parameter
+# Create a linear regression model with normalize parameter k
 
 model = LinearRegression(normalize=True)
 
